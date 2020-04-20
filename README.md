@@ -1,7 +1,7 @@
 # Uni Display Progress Bar Scope
 
 * EditorUtility.ClearProgressBar の呼び出し漏れを防ぐためのクラス  
-* using に対応しているため、プログラスバー表示中に例外が発生してもプログレスバーを非表示にしてくれます   
+* using に対応しているため、プログレスバー表示中に例外が発生してもプログレスバーを非表示にしてくれます   
 
 ## 使用例
 
